@@ -83,6 +83,7 @@ main .product-list .store {
 }
 
 main .product-list .no-product {
+  
   text-align: center;
   padding: 1rem;
   color: var(--orange-dark);
@@ -149,7 +150,10 @@ main .buttons-div i {
 main .buttons-div .dollar {
   font-weight: 600;
 }
+
+
 /*? ---- Product List section --- */
+
 main .price-table {
   padding: 2rem;
   background-color: white;
