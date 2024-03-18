@@ -1,6 +1,6 @@
 # Checkout Page
 
-![Checkout Page Project]()
+![Checkout Page Project](./img/chrome-capture-2024-3-18.gif)
 
 ## Description
 
@@ -13,4 +13,4 @@ Project aims to create a real checkout page of e-commerce website.
 
 ## Demo
 
-[Checkout Page]()
+[Checkout Page](https://meryemsenturk.github.io/Checkout-Project/)
